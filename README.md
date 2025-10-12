@@ -134,8 +134,3 @@ Example structure:
     sunglasses", "angry expression").
 
 ------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-Created by **matt** -- 2025-01-27\
-Purpose: AI-powered image variation generator with GIF output
